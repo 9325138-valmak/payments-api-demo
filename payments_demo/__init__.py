@@ -1,0 +1,1 @@
+"""Payments integration demo."""
