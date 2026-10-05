@@ -4,6 +4,8 @@ A small Python service that shows how to integrate with a payments provider **re
 
 It ships with a simulated provider so everything runs locally with no accounts or API keys. The provider is a mock written for this repo. It is not affiliated with any real payments company, and the code has not been run against a live provider.
 
+**Demo kit:** the [demo-kit](demo-kit/) folder has the pre-sales material for this service: a solution brief, discovery questions, a 5-minute demo script, architecture diagrams, a security and integration FAQ, and a one-command demo runner.
+
 ## What it demonstrates
 
 | Problem in real integrations | How this service handles it |
